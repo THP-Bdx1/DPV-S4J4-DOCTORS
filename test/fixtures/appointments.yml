@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor: one
+  patient: one
+  date: 2018-10-25 15:09:40
+
+two:
+  doctor: two
+  patient: two
+  date: 2018-10-25 15:09:40
